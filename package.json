@@ -15,6 +15,12 @@
     "element-plus": "^2.2.0",
     "vue": "^3.2.25"
   },
+  "keywords": [
+    "typescript",
+    "vue3",
+    "vue-router4",
+    "pinia"
+  ],
   "devDependencies": {
     "@element-plus/icons-vue": "^1.1.4",
     "@koa/router": "^10.1.1",
